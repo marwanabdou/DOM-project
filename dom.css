@@ -6,6 +6,8 @@ body{
   font-family: "Poppins";
   color: #333;
   background-color: #f6f6f6;
+  padding: 30px;
+  padding-bottom: 70px;
 }
 
 header{
@@ -20,8 +22,8 @@ header{
 }
 
 #store-items{
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 70px;
+  margin-bottom: 50px;
   display: flex;
   align-items: center;
 }
