@@ -1,6 +1,6 @@
 # DOM-project
 A cart with preselected Items
-[Live here](https://samuel-ma.github.io/DOM-project/);
+[Live here](https://samuel-ma.github.io/DOM-project/)
 
 # Final Design
 Design by [Samuel-ma](https://github.com/samuel-ma)🍀
